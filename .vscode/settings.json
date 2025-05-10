@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PG Local",
+            "database": "college",
+            "username": "postgres",
+            "password": "ananya",
+            "connectionTimeout": 30
+        }
+    ]
+}
